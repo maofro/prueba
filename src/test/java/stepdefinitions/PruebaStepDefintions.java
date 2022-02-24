@@ -8,12 +8,10 @@ import net.serenitybdd.screenplay.actors.OnlineCast;
 import net.serenitybdd.screenplay.actors.OnStage;
 import org.junit.Before;
 import questions.Answer;
-import tasks.JoinToday;
-import tasks.LocateCell;
-import tasks.OpenUp;
+import tasks.*;
 
 public class PruebaStepDefintions {
-    //String question;
+
     @Before
     public void setStage(){
         OnStage.setTheStage(new OnlineCast());
@@ -27,7 +25,9 @@ public class PruebaStepDefintions {
 
     @When("^he search a form to register data$")
     public void sheSearchForTheCourseOnTheChoucairAcademyPlatform(String model) {
-        OnStage.theActorInTheSpotlight().attemptsTo(LocateCell.the());
+        OnStage.theActorInTheSpotlight().attemptsTo(Locate.the());
+        OnStage.theActorInTheSpotlight().attemptsTo(Cell.theCell());
+        OnStage.theActorInTheSpotlight().attemptsTo(LastStep.theLast());
     }
 
     @Then("^she finds the course called$")
