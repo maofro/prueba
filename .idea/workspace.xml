@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82a71e98-e75d-4acf-b5f1-d5052d00f054" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/LastStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/Locate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/CellPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/LastStepPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/LocatePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/LocateCell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/userinterface/LocateCellPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/PruebaStepDefintions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/PruebaStepDefintions.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="25Ri0Pv1LQbvHj4HkhuhMf4RLNk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

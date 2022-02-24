@@ -9,9 +9,9 @@ import net.serenitybdd.screenplay.actions.Enter;
 import userinterface.LocatePage;
 
 public class Locate implements Task {
-    public static Performable the() {
+    public static Locate the() {
 
-        return Tasks.instrumented(LocateCell.class);
+        return Tasks.instrumented(Locate.class);
     }
 
     @Override

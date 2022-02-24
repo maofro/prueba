@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="utest" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-02-22T04:52:17" hostname="LENOVO_FRIDAY" time="0.034">
+<testsuite name="utest" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-02-24T01:39:38" hostname="LENOVO_FRIDAY" time="0.041">
   <properties/>
-  <testcase name="create a new user" classname="utest" time="0.034">
+  <testcase name="create a new user" classname="utest" time="0.041">
     <skipped/>
   </testcase>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1399b989
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2a117ddd
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@24b3ac0c
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6fa0444f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4c7b3ab3
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@27f9e56e
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: create a new user:Given than brandon create a new user with his info, When he search a form to register data, Then create a new user
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [create a new user:Given than brandon create a new user with his info, When he search a form to register data, Then create a new user]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [create a new user:Given than brandon create a new user with his info, When he search a form to register data, Then create a new user]

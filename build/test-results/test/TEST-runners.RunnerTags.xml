@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="runners.RunnerTags" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="LENOVO_FRIDAY" time="0.0">
   <properties/>
-  <system-out><![CDATA[REGISTER BASE STEP LISTENER net.thucydides.core.steps.BaseStepListener@7e166c8
+  <system-out><![CDATA[REGISTER BASE STEP LISTENER net.thucydides.core.steps.BaseStepListener@7717c356
 
 1 Scenarios (?[33m1 undefined?[0m)
-3 Steps (?[33m3 undefined?[0m)
-0m0,276s
+3 Steps (?[36m1 skipped?[0m, ?[33m2 undefined?[0m)
+0m0,379s
 
 
 You can implement missing steps with the snippets below:
@@ -16,12 +16,6 @@ public void thanBrandonCreateANewUserWithHisInfo() {
     throw new PendingException();
 }
 
-
-@When("^he search a form to register data$")
-public void heSearchAFormToRegisterData() {
-    // Write code here that turns the phrase above into concrete actions
-    throw new PendingException();
-}
 
 @Then("^create a new user$")
 public void createANewUser() {

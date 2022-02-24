@@ -9,9 +9,9 @@ import net.serenitybdd.screenplay.actions.Enter;
 import userinterface.CellPage;
 
 public class Cell implements Task {
-    public static Performable theCell() {
+    public static Cell theCell() {
 
-        return Tasks.instrumented(LocateCell.class);
+        return Tasks.instrumented(Cell.class);
     }
 
     @Override
