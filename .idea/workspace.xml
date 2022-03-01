@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82a71e98-e75d-4acf-b5f1-d5052d00f054" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/PruebaData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/JoinToday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/JoinToday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/LastStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/LastStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Locate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Locate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/prueba.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/prueba.feature" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
